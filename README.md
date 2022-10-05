@@ -1,6 +1,11 @@
-# Bedrock
+# OCWS Bedrock
 
-This is an accessible ClassicPress starter theme, called Bedrock. It is intended to provide a minimum of code for a working website, with the idea that you edit it as you prefer to make your own site. No need for child themes!
+This is an accessible ClassicPress starter theme, called Bedrock. It is intended to provide a minimum of code for a working website, with the idea that you edit it as you prefer to make your own site. No need for child themes! It is a fork of Tim Kaye's Bedrock theme, which he designed for such a purpose.
+
+## Versions
+
+### Version 0.0.1
+This is the original fork, with minor changes, just to change the name, screenshot etc.
 
 
 ## Special Features
